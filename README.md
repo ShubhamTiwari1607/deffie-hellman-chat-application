@@ -168,28 +168,6 @@ npm test
 1. Build the production version: `npm run build`
 2. Deploy the `build` folder to your web server
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- Spring Boot team for the excellent framework
-- React team for the amazing frontend library
-- The cryptographic community for Diffie-Hellman algorithm
-
-## 📞 Support
-
-If you have any questions or issues, please open an issue on GitHub or contact the development team.
-
----
 
 **Happy Secure Chatting! 🔐💬**
